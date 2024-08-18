@@ -1,0 +1,49 @@
+/* CoinDetailPage.css */
+
+/* Overall container */
+.coin-detail-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Title */
+  .coin-detail-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Description */
+  .coin-detail-container p {
+    font-size: 1.2rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  /* Chart container */
+  .coin-detail-container .chart-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Chart title */
+  .coin-detail-container h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Loading and error states */
+  .coin-detail-container .loading,
+  .coin-detail-container .error {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #ff0000; /* Red for error messages */
+    margin: 20px 0;
+  }
+  

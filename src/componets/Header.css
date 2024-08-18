@@ -1,0 +1,37 @@
+/* src/components/Header.css */
+
+.header {
+    background-color: #282c34; /* Dark background color */
+    padding: 15px 30px; /* Padding around the header */
+    display: flex;
+    justify-content: center; /* Center the content */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow below the header */
+  }
+  
+  .header ul {
+    list-style-type: none; /* Remove default list styling */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Align items in a row */
+    gap: 30px; /* Space between the navigation items */
+  }
+  
+  .header ul li {
+    display: inline; /* Keep the items in a horizontal line */
+  }
+  
+  .header ul li a {
+    color: #ffffff; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-size: 18px; /* Font size */
+    font-weight: 500; /* Slightly bolder font */
+    padding: 10px 15px; /* Padding around the text */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition on hover */
+  }
+  
+  .header ul li a:hover {
+    background-color: #61dafb; /* Light blue background on hover */
+    color: #282c34; /* Dark text color on hover */
+    border-radius: 4px; /* Slightly round the corners on hover */
+  }
+  
