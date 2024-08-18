@@ -13,10 +13,7 @@ Token Trackr is a React-based single-page application (SPA) that lets users trac
 
 # Demo Video
 
-https://github.com/user-attachments/assets/0e273e06-337c-428e-838d-f62e397888b1
-
-
-
+https://github.com/user-attachments/assets/d65bf2b3-7b7b-45e4-807c-0a9a32246e68
 
 ## Features
 
