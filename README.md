@@ -28,14 +28,13 @@ https://github.com/user-attachments/assets/d65bf2b3-7b7b-45e4-807c-0a9a32246e68
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-tracker.git
-   cd crypto-tracker
+   git clone https://github.com/AdeshGhadage/TokenTrackr.git
+   cd TokenTrackr
    ```
 
 2. Install dependencies
     ```bash
     npm install
-    npm start
     ```
 
 3. Start the server
